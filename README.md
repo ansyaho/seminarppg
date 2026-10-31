@@ -1,2 +1,0 @@
-# seminarppg
-Seminar PPG
